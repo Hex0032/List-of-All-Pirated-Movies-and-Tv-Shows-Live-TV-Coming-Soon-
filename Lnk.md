@@ -193,6 +193,9 @@
                         "https://www1.series9.io",
                         "https://series9.io"
                 ],
+                "SwatchSeries(Refresh The Link)": [
+                        "https://swatchseries.ru/"
+                ],
                 "TheYM": [
                         "https://www4.yesmovie.io",
                         "https://yesmovie.io"

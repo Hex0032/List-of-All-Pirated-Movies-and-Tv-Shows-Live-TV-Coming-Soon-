@@ -1,5 +1,5 @@
 {
-        "movie": {
+        "movie": { 
                 "AZMovies": [
                         "https://azm.to"
                 ],
